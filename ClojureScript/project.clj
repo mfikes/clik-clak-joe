@@ -1,7 +1,8 @@
 (defproject clik-clak-joe "0.1.0-SNAPSHOT"
   :description "React Native tic-tac-toe in ClojureScript"
   :dependencies [[org.clojure/clojure "1.6.0"]
-                 [org.clojure/clojurescript "0.0-2913"]]
+                 [org.clojure/clojurescript "0.0-3030"]
+                 [com.facebook/react-native "0.0.1-SNAPSHOT"]]
   :plugins [[lein-cljsbuild "1.0.5"]]
   :source-paths ["src"]
   :clean-targets ["js" "out"]
