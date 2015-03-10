@@ -1,5 +1,4 @@
 (ns clik-clak-joe.core
-  (:require [react-native :as rn]
-            [invariant]))
+  #_(:require [reactnative :as rn]))
 
-
+(def React (js/require "react-native/react-native"))
