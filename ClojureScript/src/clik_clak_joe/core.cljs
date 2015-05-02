@@ -1,2 +1,1 @@
-(ns clik-clak-joe.core
-  #_(:require [reactnative :as rn]))
+(ns clik-clak-joe.core)
